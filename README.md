@@ -1,4 +1,4 @@
-Tugas Kelompok: Linear Regression & Logistic Regression
+## Tugas Kelompok: Linear Regression & Logistic Regression
 
 Mata Kuliah: Fundamen Sains Data
 
