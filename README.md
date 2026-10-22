@@ -43,9 +43,12 @@ Fitur yang paling dominan menentukan probabilitas keselamatan penumpang adalah j
 Pembagian Kontribusi
 
 Agar pengerjaan tugas merata, berikut adalah rincian tugas masing-masing anggota:
+Abi Manyu Maheswara Ghoevara (25523084) & Pradhipta Widya Satria(23523129)
+: Bertanggung jawab pada tahap preprocessing (menangani missing values, encoding) dan eksplorasi data (EDA).
 
-[Nama Anggota 1]: Bertanggung jawab pada tahap preprocessing (menangani missing values, encoding) dan eksplorasi data (EDA).
 
-[Nama Anggota 2]: Membangun model (Linear & Logistic) serta menyusun visualisasi untuk evaluasi model menggunakan Matplotlib/Seaborn.
+Muhammad Dimas Satrio Domargo (25523262) & Pradhipta Widya Satria(23523129)
+: Membangun model (Linear & Logistic) serta menyusun visualisasi untuk evaluasi model menggunakan Matplotlib/Seaborn.
 
-[Nama Anggota 3]: Menyusun draf analisis/kesimpulan akhir, merapikan format teks (Markdown) di notebook, dan mengatur repositori GitHub.
+Muhammad Dimas Satrio Domargo (25523262) 
+: Menyusun draf analisis/kesimpulan akhir, merapikan format teks (Markdown) di notebook, dan mengatur repositori GitHub.
